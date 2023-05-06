@@ -26,8 +26,9 @@ Este projeto é baseado em um tutorial que ensina a como criar o site do filme *
 - [x] Efeitos com a propriedade `transform` do css
 
 ## 💻 Para caessar o Site.
+
 <a href="https://site-mario.vercel.app" target="_blank">
- - [x] Uso semântico do HTML
+ - Clique aqui!  🍄
 </a>
 
 
