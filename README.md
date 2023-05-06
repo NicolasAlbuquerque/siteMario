@@ -27,7 +27,7 @@ Este projeto é baseado em um tutorial que ensina a como criar o site do filme *
 
 ## 💻 Para caessar o Site.
 <a href="https://site-mario.vercel.app" target="_blank">
- - [x] Clique aqui 🍄
+ - [x] Uso semântico do HTML
 </a>
 
 
