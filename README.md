@@ -27,8 +27,10 @@ Este projeto é baseado em um tutorial que ensina a como criar o site do filme *
 
 ## 💻 Para caessar o Site.
 <a href="https://site-mario.vercel.app" target="_blank">
- <p>Clique aqui 🍄</p>
+ - [x] Clique aqui 🍄
 </a>
+
+
 ## 📺 Tutorial segido no Youtube
 
 <a href="https://www.youtube.com/watch?v=6Ok-kUrBGp8" target="_blank">
