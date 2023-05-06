@@ -25,7 +25,10 @@ Este projeto é baseado em um tutorial que ensina a como criar o site do filme *
 - [x] Uso do CSS Flexbox
 - [x] Efeitos com a propriedade `transform` do css
 
-
+## 💻 Para caessar o Site.
+<a href="https://site-mario.vercel.app" target="_blank">
+ <p>Clique aqui 🍄</p>
+</a>
 ## 📺 Tutorial segido no Youtube
 
 <a href="https://www.youtube.com/watch?v=6Ok-kUrBGp8" target="_blank">
